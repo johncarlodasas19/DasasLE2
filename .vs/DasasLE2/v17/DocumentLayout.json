@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\John Carlo Dasas\\source\\repos\\DasasLE2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB90D90A-153B-48D7-BAE2-2BF8D1D26EE7}|BlogDataLibrary\\BlogDataLibrary.csproj|c:\\users\\john carlo dasas\\source\\repos\\dasasle2\\blogdatalibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB90D90A-153B-48D7-BAE2-2BF8D1D26EE7}|BlogDataLibrary\\BlogDataLibrary.csproj|solutionrelative:blogdatalibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\John Carlo Dasas\\source\\repos\\DasasLE2\\BlogDataLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "BlogDataLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\John Carlo Dasas\\source\\repos\\DasasLE2\\BlogDataLibrary\\Class1.cs",
+              "RelativeToolTip": "BlogDataLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T21:35:37.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

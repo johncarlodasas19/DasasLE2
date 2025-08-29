@@ -1,0 +1,10 @@
+C:\Users\John Carlo Dasas\source\repos\DasasLE2\DasasBlogDB\bin\Debug\DasasBlogDB.dacpac
+C:\Users\John Carlo Dasas\source\repos\DasasLE2\DasasBlogDB\bin\Debug\DasasBlogDB.dll
+C:\Users\John Carlo Dasas\source\repos\DasasLE2\DasasBlogDB\bin\Debug\DasasBlogDB.pdb
+C:\Users\John Carlo Dasas\source\repos\DasasLE2\DasasBlogDB\obj\Debug\DasasBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\John Carlo Dasas\source\repos\DasasLE2\DasasBlogDB\obj\Debug\DasasBlogDB.dll
+C:\Users\John Carlo Dasas\source\repos\DasasLE2\DasasBlogDB\obj\Debug\DasasBlogDB.pdb
+C:\Users\John Carlo Dasas\source\repos\DasasLE2\DasasBlogDB\obj\Debug\Model.xml
+C:\Users\John Carlo Dasas\source\repos\DasasLE2\DasasBlogDB\obj\Debug\refactor.xml
+C:\Users\John Carlo Dasas\source\repos\DasasLE2\DasasBlogDB\obj\Debug\postdeploy.sql
+C:\Users\John Carlo Dasas\source\repos\DasasLE2\DasasBlogDB\obj\Debug\predeploy.sql
